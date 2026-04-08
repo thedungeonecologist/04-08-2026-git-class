@@ -7,3 +7,6 @@
 `HEAD`: where you are
 `push <WHERE> <WHAT>`: current git history on lcoal branch (<WHAT>) and sends it to the remote `<WHERE>`
 `pull <WHERE> <WHAT>`: updates local computer with the remote
+
+`switch <BRANCH>`: switch to a branch
+`switch <BRANCH> -c`: switch to and create a new branch 
